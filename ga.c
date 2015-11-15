@@ -1,6 +1,6 @@
 /**
  * This program simulates a basic genetic algorithm and performs operations of reproduction, crossover and mutation. I developed it as part of my coursework assignment in Soft Computing.
- * This concepts and algorithm are from the book "Fuzzy Logic with Engineering Applications" by Timothy J. Ross
+ * The concepts and algorithm are from the book "Fuzzy Logic with Engineering Applications" by Timothy J. Ross
  * 
  * @author Abhay Mittal
  *
