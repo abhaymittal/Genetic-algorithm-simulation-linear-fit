@@ -1,4 +1,4 @@
-# Genetic algorithm simulation for a linear fitness function
+# Genetic algorithm simulation for a linear fit
 ### Author: Abhay Mittal
 
 This program simulates a basic genetic algorithm and performs operations of reproduction, crossover and mutation. I developed it as part of my coursework assignment in Soft Computing.
